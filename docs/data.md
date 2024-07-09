@@ -48,10 +48,10 @@ SurroundOcc
 │   │   ├── sweeps/
 │   │   ├── v1.0-test/
 │   │   ├── v1.0-trainval/
-|   |   ├── lidarseg
-|   |   |   ├── v1.0-test
-|   |   |   ├── v1.0-trainval
-|   |   |   ├── v1.0-mini
+  |      |     ├── lidarseg
+  |      |       |   ├── v1.0-test
+  |      |       |   ├── v1.0-trainval
+  |      |       |   ├── v1.0-mini
 ```
 
 You can generate train/val split of nuScenes from 850 sequences. 
